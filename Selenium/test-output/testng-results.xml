@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[user deleted successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2019-02-13T07:17:14Z" finished-at="2019-02-13T07:17:14Z">
+    <groups>
+      <group name="m">
+        <method signature="Democ.deleteUser()[pri:0, instance:Tuesday.Democ@5f375618]" name="deleteUser" class="Tuesday.Democ"/>
+      </group> <!-- m -->
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2019-02-13T07:17:14Z" finished-at="2019-02-13T07:17:14Z">
+      <class name="Tuesday.Democ">
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:Tuesday.Democ@5f375618]" name="deleteUser" duration-ms="16" started-at="2019-02-13T07:17:14Z" finished-at="2019-02-13T07:17:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[user deleted successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- Tuesday.Democ -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
